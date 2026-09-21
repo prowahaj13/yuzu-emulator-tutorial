@@ -1,0 +1,9 @@
+# Text file normalization
+# Exclude build artifacts
+*.svg text
+
+*.yaml linguist-detectable=false
+public/index.html linguist-vendored
+*.htm linguist-vendored
+src/** linguist-detectable
+# eof 910c3291
